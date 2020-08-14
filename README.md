@@ -1,1 +1,1 @@
-# C-programing-practice
+ 열혈 C 프로그래밍을 책을 통해 C언어를 공부하고 있습니다.
